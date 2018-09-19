@@ -1,2 +1,0 @@
-# ToNaCemBudemPracovat
-Created with CodeSandbox
